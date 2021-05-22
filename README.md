@@ -1,6 +1,6 @@
 ## Welcome!
 
-You can check  a book chapter that I co-author on [Data Science: A New Door](https://github.com/misgna/misgna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can check  a book chapter that I co-author on [Data Science: A New Door](https://github.com/misgna/misgna/blob/main/Data_Science_A_New_Door.pdf). For any comment, you can reach me through my email (haile.misgna@mu.edu.et)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
