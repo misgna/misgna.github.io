@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am Haile Misgna, a PhD student at Beijing University of Technology. I am interested in Natural Language Processing (NLP), Machine Learning, and Deep Learning. 
+I am Haile Misgna, a PhD student at Beijing University of Technology (BJUT), China. I am interested in Natural Language Processing (NLP), Machine Learning, and Deep Learning. 
 
 ## Book
 
