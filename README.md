@@ -1,6 +1,6 @@
 ## Welcome!
 
-You can use the [editor on GitHub](https://github.com/misgna/misgna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can check  a book chapter that I co-author on [Data Science: A New Door](https://github.com/misgna/misgna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
