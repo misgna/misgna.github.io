@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am Haile Misgna. I am interested in Natural Language Processing (NLP), Machine Learning, and Deep Learning. 
+I am Haile Misgna. I am a computer programmer. 
 
 ## Book
 
